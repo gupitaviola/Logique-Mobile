@@ -18,4 +18,5 @@ yarn-error.log*
 # WebdriverIO
 reports/
 allure-results/
+allure-report/
 screenshots/
